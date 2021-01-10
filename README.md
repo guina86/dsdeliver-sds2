@@ -7,4 +7,8 @@ professores:
 * Nelio Alves
 * Washington Soares
 
-Pequeno sistema de pedidos com back-end utilizando Spring / Java e front-end utilizando React / Typescript
+Pequeno sistema de pedidos com back-end utilizando:
+
+* Spring / Java no back-end
+* React / Typescript no front-web
+* React Native / Typescript no front-mobile
